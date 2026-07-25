@@ -3,3 +3,6 @@ item 2
 item 3
 item 4
 item 5
+Full Meal +Drink
+Full Meal + Apetizer
+Full Meal + Apetizer + Drink

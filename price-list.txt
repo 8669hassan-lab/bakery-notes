@@ -4,3 +4,6 @@ price 3
 price 4
 price 5
 price 6
+Full Meal price 1
+Full Meal price 2
+Full Meal price 3
